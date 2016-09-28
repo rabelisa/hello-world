@@ -1,2 +1,3 @@
 # hello-world
-it's my first project on github.
+delete something
+just like I sad, it's my first project. 
